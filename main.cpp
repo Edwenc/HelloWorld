@@ -16,13 +16,10 @@
 
 using namespace std;
 
-/*
- * Hello world tmtc
- */
-
 int main(int argc, char** argv) {
 
    cout << "Hello World" << endl;     
+   cout << "J'ai ajouté une ligne !" << endl;
    
     return 0;
 }
